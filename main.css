@@ -9,3 +9,16 @@
 .navbar-collapse{ justify-content: flex-end;}
 
 .navbar-toggler{  background:#fff !important;}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.header{
+ background: url('../images/headerback.jpg');
+ width: 100%;
+ height: 100vh;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
