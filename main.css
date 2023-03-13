@@ -38,20 +38,23 @@
     position: absolute;
     top: 30%;
     margin: auto;
-    padding: 2em;
+    padding: 7em;
     
 }
+
 .description h1{
- color:#F97300 ;
+    color:#F97300;
 }
+
 .description p{
  color:#666;
  font-size: 20px;
  width: 50%;
  line-height: 1.5;
 }
+
 .description button{
- border:1px  solid #F97300;
+ border: 1px solid #F97300;
  background:#F97300;
  color:#fff;
 }
@@ -62,31 +65,45 @@
     padding: 1em;
     position: relative;
    }
-   .about h1{
+.about h1{
 
     color:#F97300;
+    padding: top 5px;
+    text-align: center;
     margin: 10em;
    }
-   .about img{
+.about-wrap{
+    color:#F97300;
+
+}
+
+.about img{
     height: 100%;
-       width: 80%;
-       border-radius: 50%
+    width: 100%;
+    border-radius: 50%
    }
-   .about span{
+
+.about span{
     display: block;
     color: #888;
     position: absolute;
     left: 475px;
    }
 
-   .about .desc{
+.about .desc{
     padding: 2em;
     border-left:4px solid #10828C;
    }
-   .about .desc h3{
+
+.about .desc h3{
     color: #10828C;
    }
-   .about .desc p{
+
+.about h3{
+    padding: 5px;
+}
+
+.about .desc p{
     line-height:2;
     color:#888;
    }
