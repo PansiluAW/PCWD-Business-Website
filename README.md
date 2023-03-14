@@ -8,5 +8,5 @@
 * About Section
 * Portfolio Section
 ## Kaveesha Weerasinghe
-*
-*
+* Blog Section
+
