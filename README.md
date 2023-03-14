@@ -4,9 +4,9 @@
 ### Pansilu Wijesiri
 * Team Section
 * Contact Form
-## Manuka Dilum
+### Manuka Dilum
 * About Section
 * Portfolio Section
-## Kaveesha Weerasinghe
+### Kaveesha Weerasinghe
 * Blog Section
 
