@@ -1,3 +1,6 @@
+body{
+    background-color: #f4f4f4;
+}
 .navbar {
     background: #F97300;
 }
@@ -281,3 +284,34 @@
    .img{
     width: 100%;
    }
+   .contact-form{
+    margin: 6em 0;
+    position: relative;
+   }
+   .contact-form h1{
+    padding: 2em 1px;
+    color: #F97300;
+   }
+   .contact-form .right{
+    max-width: 600px;
+   }
+   .submit-btn{
+    width: 100%;
+    background-color: #F97300;
+   }
+   .contact-form .right .btn-secondary{
+    background: #F97300;
+    color: #fff;
+    border: 0;
+   }
+   .contact-form .right .form-control::placeholder{
+    color: #888;
+    font-size: 16PX;
+   }
+   .form-group{
+    margin: 20px 0;
+   }
+   @import url('https://fonts.googleapis.com/css?family=Raleway');
+   html,h1,h2,h3,h4,h5,h6,a{
+    font-family: "Raleway";
+    }
